@@ -10,8 +10,8 @@ likelihood of abandoned systems that fall into disrepair. For a detailed descrip
 We built a mobile app synced with a browser version that leverages existing open source communication platforms and enables an easy communication between engineers all over the world. Our mobile app, which we named **EWBFlow**, addresses all the requriements of the EWB challenge:
 1. it is available both online and offline (see below for details),
 2. it contains a Wiki page, specific to each project, where engineers can upload manuals, maps, sketches or any other kinds of supplementary and teaching material,
-3. it contains a support forum, specific to each project, where enginners can ask and answer questions, upload images and videos,
-4. it supports chat and video call functionallities, 
+3. it contains a support forum, specific to each project, where engineers can ask and answer questions, upload images and videos,
+4. it supports chat and video call functionalities, 
 5. it contains a global forum for sharing information and insights gained from the past projects categorised by the content.
 
 ### Mobile App Demo
@@ -32,7 +32,7 @@ We also added an instance of [Conversejs](https://conversejs.org/) which is a fr
 - Syncing happens when the user connects to the internet.
 
 ### Challenges and how to overcome them
-- *People having troubles to cope with technology (but assuming access to a smartphone)* We would provide an app tutorial showing a new user how to navigate around, potentially in several languages. 
+- *People having troubles to cope with technology (but assuming access to a smartphone)* We would provide an app tutorial showing a new user how to navigate in it, potentially in several languages. 
 - *Collecting feedback from project beneficiaries and preventing them to abandon the installed system* We would implement a report page where a local engineer could keep track of the system maintaince and log the common issues. This is beneficial for the international engineers as it provides insights on the expected issues and improving the training for the future projects. It could also serve as a way of engaging locals to keep the installed systems alive and rewarding them financially based on the reported health of their system.
 
 ### Team 
